@@ -13,7 +13,7 @@ const sidnei = {
   antes:    "Designer gráfico",
   agora:    "Desenvolvedor de soluções para pequenos negócios",
   estudando:"Tecnólogo em Ciência de Dados",
-  metodo:   "Conhecimento do negócio + desenvolvimento assistido por IA",
+  metodo:   "Conhecimento do negócio + desenvolvimento com IA",
   foco:     ["automação", "IA local", "ciência de dados"],
 };
 ```
